@@ -1,6 +1,7 @@
 import './SearchResultsList.css';
 
-import SearchResult from './SearchResult';
+import SearchResult from '../searchResult/SearchResult';
+
 export default function SearchResultsList({results}) {
   return (
     <div className='results-list'>

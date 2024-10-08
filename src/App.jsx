@@ -1,8 +1,8 @@
 import './App.css'
 
+import SearchBar from './components/searchBar/SearchBar'
+import SearchResultsList from './components/searchResultList/SearchResultsList'
 import { useState } from 'react'
-import SearchBar from './components/SearchBar'
-import SearchResultsList from './components/SearchResultsList'
 
 function App() {
   const [results, setResults] = useState([])
