@@ -12,7 +12,10 @@
 ## 🎯 About ##
 
 Search bar component using React. </br> 
-Project covers ReactJS, functional components, props, state, API calls using fetch, HTML, and CSS.
+Project covers ReactJS, functional components, props, state, API calls using fetch, HTML, and CSS. 
+
+## Demo ##
+https://search-bar-mmazitovs-projects.vercel.app/
 
 ## ✨ Features ##
 
@@ -28,6 +31,7 @@ The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/): A JavaScript library for building user interfaces.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/): A fake online REST API for testing and prototyping.
+- [React Icons](https://react-icons.github.io/react-icons/search/)
 
 ## ✅ Requirements ##
 
